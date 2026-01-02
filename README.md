@@ -1,6 +1,6 @@
 # Music Programming Team Project 🎵
 
-이 프로젝트는 대학교 3학년 음악 프로그래밍(Music Programming) 수업의 팀 프로젝트 결과물입니다. 
+이 프로젝트는 대학교 2학년 음악 프로그래밍(Music Programming) 수업의 팀 프로젝트 결과물입니다. 
 ChucK 언어를 사용하여 MIDI 기반의 음악을 연주하는 프로그램을 개발했습니다.
 
 ### 👥 팀원 및 역할 (Team & Roles)
